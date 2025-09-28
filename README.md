@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tamilore Akinsola  
+# Hello 👋, I'm Tamilore Akinsola  
 **Full-Stack / Cloud-leaning Developer (TypeScript & JavaScript)**
 
 I build fast, reliable, and accessible applications across web and mobile. My daily toolkit includes **Next.js, React, React Native, Node.js/Express, Tailwind CSS, Prisma**, and real-time tech like **Socket.IO/WebRTC**—all packaged with clean architecture and a black/white design ethos.
