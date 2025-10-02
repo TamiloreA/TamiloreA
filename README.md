@@ -14,7 +14,7 @@ I build fast, reliable, and accessible applications across web and mobile. My da
 ## 🧰 Skills
 
 **Frontend**
-- React, Next.js (App Router), TypeScript, JavaScript (ES6+)
+- React, Next.js (App Routers), TypeScript, JavaScript (ES6+)
 - Tailwind CSS, CSS3/Sass, Redux/State Management, Framer Motion
 
 **Mobile**
